@@ -31,7 +31,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: 'Olawale',
           from_email: form.email,
-          to_email: 'olawale@olawaleolafisoye.com',
+          to_email: 'walex.world20@gmail.com',
           message: form.message,
         },
         'PU-pK6OmhH4M6kn6I',
