@@ -25,8 +25,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        'service_2g0e6qm',
-        'template_b54r0i6',
+        'service_6k519w7',
+        'template_wd1ybqp',
         {
           from_name: form.name,
           to_name: 'Olawale',
@@ -34,7 +34,7 @@ const Contact = () => {
           to_email: 'walex.world20@gmail.com',
           message: form.message,
         },
-        'PU-pK6OmhH4M6kn6I',
+        'Ozx9RoSuLjyZSvn5k',
       )
       .then(
         () => {
