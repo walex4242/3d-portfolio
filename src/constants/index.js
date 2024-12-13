@@ -194,15 +194,15 @@ const projects = [
       'Web-based platform that allows users to upload or use Ai to design any kind of logo you want on a cloth by applying logo, color and gradient.',
     tags: [
       {
-        name: 'react',
+        name: 'React',
         color: 'blue-text-gradient',
       },
       {
-        name: 'threejs',
+        name: 'Threejs',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'Tailwind',
         color: 'pink-text-gradient',
       },
       {
@@ -240,15 +240,15 @@ const projects = [
       'The "GodHeranca Dashboard" frontend, built with Next.js, lets supermarkets manage accounts, upload products, and track inventory. Products are displayed on the "GodHeranca" web app for user purchases.',
     tags: [
       {
-        name: 'react',
+        name: 'Tailwind',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'TypeScript',
         color: 'green-text-gradient',
       },
       {
-        name: 'vite',
+        name: 'NextJs',
         color: 'yellow-text-gradient',
       },
     ],
