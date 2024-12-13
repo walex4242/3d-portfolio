@@ -22,7 +22,7 @@ import typescript from './tech/typescript.png';
 import threejs from './tech/threejs.svg';
 
 import brainnest from './company/brainnest.png';
-import imec from './company/imec.jpeg';
+import jpmorgan from './company/jpmorgan.png';
 import wlogo from './company/wlogo.png';
 import KRG from './company/KRG.jpg';
 
@@ -30,8 +30,8 @@ import carrent from './carrent.png';
 import jobit from './jobit.png';
 import tripguide from './tripguide.png';
 import threejs1 from './threejs1.png';
-import dalle from './dalle.png';
-import metaverse from './metaverse.png';
+import dashboard from './dashboard.png';
+import godheranca from './godheranca.png';
 
 export {
   logo,
@@ -55,13 +55,13 @@ export {
   typescript,
   threejs,
   brainnest,
-  imec,
+  jpmorgan,
   wlogo,
   KRG,
   carrent,
   jobit,
   tripguide,
   threejs1,
-  metaverse,
-  dalle,
+  dashboard,
+  godheranca,
 };

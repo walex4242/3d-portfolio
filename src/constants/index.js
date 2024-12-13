@@ -15,16 +15,13 @@ import {
   figma,
   brainnest,
   wlogo,
-  imec,
+  jpmorgan,
   KRG,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   frontend,
-  metaverse,
-  dalle,
+  dashboard,
   threejs1,
+  godheranca,
 } from '../assets';
 
 export const navLinks = [
@@ -52,7 +49,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: 'Frontend Developer',
+    title: 'Full Stack Developer',
     icon: frontend,
   },
   {
@@ -157,16 +154,15 @@ const experiences = [
     ],
   },
   {
-    title: 'TOTVS Application Operator',
-    company_name: 'Grupo Imec',
-    icon: imec,
+    title: 'Software Engineering Virtual Experience',
+    company_name: 'J.P. Morgan',
+    icon: jpmorgan,
     iconBg: '#E6DEDD',
-    date: 'Nov 2022 - Present',
+    date: 'Oct 2023 - Nov 2023',
     points: [
-      'Successfully utilized the TOTVS application to pick and pack customer orders within a busy warehouse environment.  ',
-      'Demonstrated proficiency in navigating the TOTVS system to access order information, locates items in the inventory, and prioritizes picking tasks.  ',
-      'Collaborated closely with the warehouse team to ensure timely and efficient order fulfillment, meeting daily production targets.  ',
-      'Adapted to changes in order volume and priorities, effectively managing time and resources to meet customer demands.  ',
+      'Used JP Morgan Chase’s open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor. ',
+      'Set up a local dev environment by downloading the necessary files, tools and dependencies.',
+      'Fixed broken files in the repository to make web application output correctly. ',
     ],
   },
 ];
@@ -175,18 +171,11 @@ const testimonials = [
   {
     testimonial:
       'I thought it was impossible to make a website as beautiful as our product, but Olawale proved me wrong.',
-    name: 'Sara Lee',
-    designation: 'CFO',
-    company: 'Acme Co',
-    image: 'https://randomuser.me/api/portraits/women/4.jpg',
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Olawale does.",
-    name: 'Chris Brown',
-    designation: 'COO',
-    company: 'DEF Corp',
-    image: 'https://randomuser.me/api/portraits/men/5.jpg',
+    name: 'Marsaun Cook',
+    designation: 'CEO',
+    company: 'Cooks Corner',
+    image:
+      'https://media.licdn.com/dms/image/v2/D5603AQG767vyQ7yW6Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1706229493138?e=1739404800&v=beta&t=4bhXWHFuADG1bDF7rQn3JmLw8LPxgpR5tk7VQxK0Y5I',
   },
   {
     testimonial:
@@ -225,30 +214,30 @@ const projects = [
     source_code_link: 'https://github.com/walex4242/ThreeJs_Project_Ai',
   },
   {
-    name: 'Metaverse',
+    name: 'GodHeranca',
     description:
-      'Web article that talks about importance of metaverse and it usefullness. It shows the imaginary of how the metaverse operate aswell .',
+      'GodHeranca" is a Next.js-based web app where users can add items to their cart, enter their information, and be redirected to WhatsApp to complete their order.',
     tags: [
       {
-        name: 'next',
+        name: 'Nextjs',
         color: 'blue-text-gradient',
       },
       {
-        name: 'react',
+        name: 'TypeScript',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'Tailwind',
         color: 'pink-text-gradient',
       },
     ],
-    image: metaverse,
-    source_code_link: 'https://github.com/walex4242/metaverse',
+    image: godheranca,
+    source_code_link: 'https://github.com/walex4242/godherancafrontendweb',
   },
   {
-    name: 'Dalle-Project',
+    name: 'GodHeranca Dashboard',
     description:
-      'A web application that allow users to generate image through the help of Ai and also share with the community.',
+      'The "GodHeranca Dashboard" frontend, built with Next.js, lets supermarkets manage accounts, upload products, and track inventory. Products are displayed on the "GodHeranca" web app for user purchases.',
     tags: [
       {
         name: 'react',
@@ -263,8 +252,9 @@ const projects = [
         color: 'yellow-text-gradient',
       },
     ],
-    image: dalle,
-    source_code_link: 'https://github.com/walex4242/Dall-Eproject',
+    image: dashboard,
+    source_code_link:
+      'https://github.com/walex4242/GodHerancaDashboardfrontend',
   },
 ];
 

@@ -47,14 +47,17 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Highly motivated Junior Front-End Developer with a passion for creating
-        user- friendly web applications and interfaces. Possesses excellent
-        problem-solving abilities and a keen eye for detail, ensuring the
-        delivery of high-quality interface. Proficient in HTML, CSS, and
-        JavaScript, with a strong understanding of UI/UX principles.
-        Collaborative team player with a continuous learning mindset. A
-        proactive team player with effective communication skills and a passion
-        for staying updated with the latest frontend tools and technologies.
+        Highly motivated Full Stack Developer with a strong passion for building
+        scalable, user-friendly web applications. Possesses excellent
+        problem-solving skills and a keen eye for detail, ensuring the delivery
+        of high-quality, end-to-end solutions. Proficient in both frontend and
+        backend technologies, including HTML, CSS, JavaScript, React, Node.js,
+        and various databases, with a solid understanding of UI/UX principles
+        and RESTful API development. A collaborative team player with strong
+        communication skills, committed to continuous learning and staying
+        updated with the latest industry trends. Focused on creating innovative,
+        robust solutions while contributing to the success of the development
+        team and driving projects forward.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
